@@ -1,2 +1,2 @@
-# chia-auto-fullnode
-Auto add full node from "https://chia.keva.app/"
+# Chia Auto Full Node
+Auto add full node from chia.keva.app
