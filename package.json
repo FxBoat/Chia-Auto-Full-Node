@@ -1,0 +1,16 @@
+{
+    "name": "Chia Auto Full Node",
+    "version": "1.0.0",
+    "description": "say hello to the world",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Fxboat",
+    "license": "ISC",
+    "dependencies": {
+        "got": "^11.8.2",
+        "jsdom": "^16.6.0",
+        "node-cron": "^3.0.0"
+    }
+}
